@@ -1,0 +1,9 @@
+C:\Users\M01Z\Desktop\M01Z\M01Z\bin\Debug\M01Z.exe.config
+C:\Users\M01Z\Desktop\M01Z\M01Z\bin\Debug\M01Z.exe
+C:\Users\M01Z\Desktop\M01Z\M01Z\bin\Debug\M01Z.pdb
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.csprojResolveAssemblyReference.cache
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.M01Z.resources
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.Properties.Resources.resources
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.csproj.GenerateResource.Cache
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.exe
+C:\Users\M01Z\Desktop\M01Z\M01Z\obj\Debug\M01Z.pdb
